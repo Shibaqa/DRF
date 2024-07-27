@@ -2,8 +2,7 @@ Django==5.0.7
 Pillow == 10.4.0
 djangorestframework == 3.15.2
 psycopg2-binary == 2.9.9
-python-dotenv == 1.0.1
-datetime ==
+python-dotenv == 1.0.1datetime ==
 djangorestframework-simplejwt ==5.0.7
 asgiref
 coverage == 7.6.0
