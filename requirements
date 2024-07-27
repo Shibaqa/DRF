@@ -11,3 +11,7 @@ pycodestyle == 2.12.0
 pytz == 2024.1
 sqlparse == 0.5.1
 tzdata == 2024.1
+drf-yasg == 4.1.1
+django-cors-headers == 3.8.1
+stripe ==
+requests == 2.32.3
